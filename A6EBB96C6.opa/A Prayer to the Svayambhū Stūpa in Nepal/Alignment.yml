@@ -1,0 +1,28 @@
+segment_sources:
+  P8EEE3E45:
+    type: origin_type
+    relation: translation
+    language: en
+  PDE987A37:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  15fe74745be342bc9b07319c231e1a65:
+    P8EEE3E45: 3443a07f06e14888a3741b295b54b4bf
+    PDE987A37: 5274dc0584bf4892bd26ba172603ce4e
+  1b54ab9537af48ff9e256f903fc17405:
+    P8EEE3E45: 118dc750174e405bb56fca0e2ee21eab
+    PDE987A37: e1e5473218d34204900a29b2106fd33a
+  26da6979859d4ee288283b3a42963629:
+    P8EEE3E45: 4237e3045dfd4cb0a6cdedeca7aa2732
+    PDE987A37: a9291878288c42bdb3ce20e8e1486da8
+  86e3932d1ac34d7d8671aa6256489e7e:
+    P8EEE3E45: 86ecf2c3aa3c454cb7327b244245f2e0
+    PDE987A37: 429aa3a6da3241d0a0989acf92b1cf6e
+  4838c3078bc94eb592e3e42437163897:
+    P8EEE3E45: bd60a5ae3b7d457ba48a4561320c8328
+    PDE987A37: 8a4ecd9b3b034e36a9d153271d313773
+  cf1f692b6959468fa417657d9f6f444f:
+    P8EEE3E45: 16fe7e6250a14dfda1927d06df6822c1
+    PDE987A37: 1305d7071cbb4cc482bfe53903dce615

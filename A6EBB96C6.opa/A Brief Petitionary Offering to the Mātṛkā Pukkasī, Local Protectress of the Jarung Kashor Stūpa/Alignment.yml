@@ -1,0 +1,19 @@
+segment_sources:
+  P8EEE3E45:
+    type: origin_type
+    relation: translation
+    language: en
+  PDE987A37:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  fa91dc41db4341eda659d0d49ae25a95:
+    P8EEE3E45: a21a2aefdb564b07b569fd28733816f7
+    PDE987A37: d3ddab2b9e34468a8bea056f65eedca3
+  f8949290c86549968dff483464b4b67c:
+    P8EEE3E45: 76a5de177b51431aab712258c4cf2399
+    PDE987A37: daad310522d948a5ba8ee3327b0a22f3
+  c6923f856fdd454384b358a197d233db:
+    P8EEE3E45: 421c45d79c6447de8e2aaf5d91036311
+    PDE987A37: e6c98d6f857a453c93c8618e3240a95a
